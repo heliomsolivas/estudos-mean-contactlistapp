@@ -1,0 +1,29 @@
+{
+  "name": "estudos-mean-contactlistapp",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0",
+    "body-parser": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliomsolivas/estudos-mean-contactlistapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heliomsolivas/estudos-mean-contactlistapp/issues"
+  },
+  "homepage": "https://github.com/heliomsolivas/estudos-mean-contactlistapp#readme"
+}
